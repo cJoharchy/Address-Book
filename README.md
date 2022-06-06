@@ -1,7 +1,8 @@
 # Address-Book
 
 Tools Used:
-For this test I used various online resources to build my code. I was unfamiliar with some elements of ReactJS and had to research a number of things as I was moving forward. As a result, most of my code is built from researching tools and examples online. Once I used <code>npx create-react-app address-book</code>, I navigated to the address book using <code>cd address-book</code> and then used <code>npm start</code> to start the development server. From there, I was able to view my work from the <code>localhost:3000</code> in-browser as I worked. 
+For this test I used various online resources to build my code. I was unfamiliar with some elements of ReactJS and had to research a number of things as I was moving forward. As a result, most of my code is built from researching tools and examples online. Once I used <code>npx create-react-app address-book</code>, I navigated to the address book using <code>cd address-book</code> and then used <code>npm start</code> to start the development server. From there, I was able to view my work from
+<code>localhost:3000</code> in-browser as I worked. 
 
 Basic Summary: The application works as follows; 
 <br>
