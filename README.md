@@ -12,3 +12,5 @@ Basic Summary: The application works as follows;
 4. From here, the data can either be deleted or edited. Unfortunately, the edit button simply deletes the data instead of editing it as I was unable to figure out how to edit the data after submission.
 <br><br>
 This was as far as I was able to get with the test given and with my current skillset. To run this application, follow the method I used in "Tools Used" to achieve the same results. 
+<br><br>
+Thank you for your time. I look forward to hearing from you.
